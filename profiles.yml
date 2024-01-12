@@ -8,6 +8,4 @@ DbtTestProject:
       port: 1433
       database: WarehouseCedric
       schema: dbo
-      authentication: ActiveDirectoryInteractive
-      #user: cedric.martel@chanel.com
       
