@@ -8,4 +8,5 @@ DbtTestProject:
       port: 1433
       database: WarehouseCedric
       schema: dbo
+      authentication: cli
       
